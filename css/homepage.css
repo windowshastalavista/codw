@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* css del del tag h1 */
+h1 {
+  text-align: center;
+  color: #E90508
+}
+
+/* CSS tag table */
+table {
+  margin: 0 auto;
+}
+

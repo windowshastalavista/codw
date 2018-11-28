@@ -1,0 +1,161 @@
+<armi>
+  <arma tipo="Pistole">
+    <nome>Strife</nome>
+    <descrizione> Descrizione Strife </descrizione>
+  </arma>
+  
+  <arma tipo="Pistole">
+    <nome>Mozu</nome>
+    <descrizione> Descrizione Mozu </descrizione>
+  </arma>
+  
+  <arma tipo="Fucili d’assalto">
+    <nome>ICR-7</nome>
+    <descrizione> Descrizione ICR-7 </descrizione>
+  </arma>
+  
+  <arma tipo="Fucili d’assalto">
+    <nome>KN-57</nome>
+    <descrizione> Descrizione KN-57 </descrizione>
+  </arma>
+  
+  <arma tipo="Fucili d’assalto">
+    <nome>Rampart 17</nome>
+    <descrizione> Descrizione Rampart 17 </descrizione>
+  </arma>
+  
+  <arma tipo="Fucili d’assalto">
+    <nome>Vapr-XKG</nome>
+    <descrizione> Descrizione Vapr-XKG </descrizione>
+  </arma>
+  
+  <arma tipo="Fucili d’assalto">
+    <nome>Maddox RFB</nome>
+    <descrizione> Descrizione Maddox RFB </descrizione>
+  </arma>
+  
+  <arma tipo="Fucili d’assalto">
+    <nome>Grav</nome>
+    <descrizione> Descrizione Grav </descrizione>
+  </arma>
+  
+  <arma tipo="Fucili tattici">
+    <nome>Auger DMR</nome>
+    <descrizione> Descrizione Auger DMR </descrizione>
+  </arma>
+  
+  <arma tipo="Fucili tattici">
+    <nome>ABR 223</nome>
+    <descrizione> Descrizione ABR 223 </descrizione>
+  </arma>
+  
+  <arma tipo="Fucili tattici">
+    <nome>Swordfish</nome>
+    <descrizione> Descrizione Swordfish </descrizione>
+  </arma>
+  
+  <arma tipo="Fucili tattici">
+    <nome>Essex Model 07</nome>
+    <descrizione> Descrizione Essex Model 07 </descrizione>
+  </arma>
+  
+  <arma tipo="Fucili di precisione">
+    <nome>Paladin HB50</nome>
+    <descrizione> Descrizione Paladin HB50 </descrizione>
+  </arma>
+  
+  <arma tipo="Fucili di precisione">
+    <nome>Koshka</nome>
+    <descrizione> Descrizione Koshka </descrizione>
+  </arma>
+  
+  <arma tipo="Fucili a pompa">
+    <nome>MOG 12</nome>
+    <descrizione> Descrizione  MOG 12 </descrizione>
+  </arma>
+  
+  <arma tipo="Fucili a pompa">
+    <nome>SG12</nome>
+    <descrizione> Descrizione  SG12 </descrizione>
+  </arma>
+  
+  <arma tipo="Mitragliette">
+    <nome>MX9</nome>
+    <descrizione> Descrizione  MX9 </descrizione>
+  </arma>
+  
+  <arma tipo="Mitragliette">
+    <nome>GKS</nome>
+    <descrizione> Descrizione  GKS </descrizione>
+  </arma>
+  
+  <arma tipo="Mitragliette">
+    <nome>Spitfire</nome>
+    <descrizione> Descrizione  Spitfire </descrizione>
+  </arma>
+  
+  <arma tipo="Mitragliette">
+    <nome>Cordite</nome>
+    <descrizione> Descrizione  Cordite </descrizione>
+  </arma>
+  
+  <arma tipo="Mitragliette">
+    <nome>Saug 9mm</nome>
+    <descrizione> Descrizione  Saug 9mm </descrizione>
+  </arma>
+  
+  <arma tipo="Mitragliette">
+    <nome>MP40</nome>
+    <descrizione> Descrizione  MP40 </descrizione>
+  </arma>
+  
+  <arma tipo="Mitragliatrici">
+    <nome>Titan</nome>
+    <descrizione> Descrizione  Titan </descrizione>
+  </arma>
+  
+  <arma tipo="Mitragliatrici">
+    <nome>Zweihänder</nome>
+    <descrizione> Descrizione  Zweihänder </descrizione>
+  </arma>
+  
+  <arma tipo="Lanciarazzi e lanciagranate">
+    <nome>Hellion Salvo</nome>
+    <descrizione> Descrizione Hellion Salvo </descrizione>
+  </arma>
+  
+  <arma tipo="Lanciarazzi e lanciagranate">
+    <nome>Lanciagranate War Machine</nome>
+    <descrizione> Descrizione Lanciagranate War Machine </descrizione>
+  </arma>
+  
+  <arma tipo="Granate e Armi da lancio">
+    <nome>Molotov</nome>
+    <descrizione> Descrizione Molotov </descrizione>
+  </arma>
+  
+  <arma tipo="Granate e Armi da lancio">
+    <nome>Granata a Frammentazione</nome>
+    <descrizione> Descrizione Granata a Frammentazione </descrizione>
+  </arma>
+  
+  <arma tipo="Granate e Armi da lancio">
+    <nome>Granata Stordente</nome>
+    <descrizione> Descrizione Granata Stordente </descrizione>
+  </arma>
+  
+  <arma tipo="Granate e Armi da lancio">
+    <nome>Ascia da combattimento</nome>
+    <descrizione> Descrizione Ascia da combattimento </descrizione>
+  </arma>
+  
+  <arma tipo="Granate e Armi da lancio">
+    <nome>9-Bang</nome>
+    <descrizione> Descrizione 9-Bang </descrizione>
+  </arma>
+  
+   <arma tipo="Granate e Armi da lancio">
+    <nome>Granata fumogena</nome>
+    <descrizione> Descrizione Granata fumogena </descrizione> 
+  </arma>
+</armi>
