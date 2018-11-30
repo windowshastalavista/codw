@@ -1,0 +1,34 @@
+<!DOCTYPE equipaggiamenti SYSTEM "equipaggiamenti.dtd">
+
+<equipaggiamenti>
+  <equipaggiamento tipo="Granate e Armi da lancio">
+    <nome>Molotov</nome>
+    <descrizione> Descrizione Molotov </descrizione>
+  </equipaggiamento>
+  
+  <equipaggiamento tipo="Granate e Armi da lancio">
+    <nome>Granata a Frammentazione</nome>
+    <descrizione> Descrizione Granata a Frammentazione </descrizione>
+  </equipaggiamento>
+  
+  <equipaggiamento tipo="Granate e Armi da lancio">
+    <nome>Granata Stordente</nome>
+    <descrizione> Descrizione Granata Stordente </descrizione>
+  </equipaggiamento>
+  
+  <equipaggiamento tipo="Granate e Armi da lancio">
+    <nome>Ascia da combattimento</nome>
+    <descrizione> Descrizione Ascia da combattimento </descrizione>
+  </equipaggiamento>
+  
+  <equipaggiamento tipo="Granate e Armi da lancio">
+    <nome>9-Bang</nome>
+    <descrizione> Descrizione 9-Bang </descrizione>
+  </equipaggiamento>
+  
+   <equipaggiamento tipo="Granate e Armi da lancio">
+    <nome>Granata fumogena</nome>
+    <descrizione> Descrizione Granata fumogena </descrizione> 
+  </equipaggiamento>
+</equipaggiamenti>
+  

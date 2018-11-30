@@ -1,3 +1,4 @@
+<!DOCTYPE armi SYSTEM "armi.dtd">
 <armi>
   <arma tipo="Pistole">
     <nome>Strife</nome>
@@ -127,35 +128,5 @@
   <arma tipo="Lanciarazzi e lanciagranate">
     <nome>Lanciagranate War Machine</nome>
     <descrizione> Descrizione Lanciagranate War Machine </descrizione>
-  </arma>
-  
-  <arma tipo="Granate e Armi da lancio">
-    <nome>Molotov</nome>
-    <descrizione> Descrizione Molotov </descrizione>
-  </arma>
-  
-  <arma tipo="Granate e Armi da lancio">
-    <nome>Granata a Frammentazione</nome>
-    <descrizione> Descrizione Granata a Frammentazione </descrizione>
-  </arma>
-  
-  <arma tipo="Granate e Armi da lancio">
-    <nome>Granata Stordente</nome>
-    <descrizione> Descrizione Granata Stordente </descrizione>
-  </arma>
-  
-  <arma tipo="Granate e Armi da lancio">
-    <nome>Ascia da combattimento</nome>
-    <descrizione> Descrizione Ascia da combattimento </descrizione>
-  </arma>
-  
-  <arma tipo="Granate e Armi da lancio">
-    <nome>9-Bang</nome>
-    <descrizione> Descrizione 9-Bang </descrizione>
-  </arma>
-  
-   <arma tipo="Granate e Armi da lancio">
-    <nome>Granata fumogena</nome>
-    <descrizione> Descrizione Granata fumogena </descrizione> 
   </arma>
 </armi>
