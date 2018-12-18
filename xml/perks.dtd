@@ -1,0 +1,6 @@
+<!ELEMENT equipaggiamenti (perk+)>
+<!ELEMENT equipaggiamento (nome?, descrizione?)>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT descrizione (#PCDATA)>
+
+<!ATTLIST perk tipo CDATA #REQUIRED>

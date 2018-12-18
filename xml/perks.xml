@@ -1,0 +1,59 @@
+<!DOCTYPE Perks SYSTEM "perks.dtd">
+
+<perks>
+  <perk tipo="Perks con durata >= 240s">
+    <nome>Medico</nome>
+    <descrizione>Permette di curare te stesso e i compagni molto più vecolemente del consueto.  </descrizione>
+  </perk>
+
+    <perk tipo="Perks con durata >= 240s">
+      <nome>Consumatore</nome>
+      <descrizione>Riduce il tempo che occorre per utilizzare determinati oggetti, curarsi e revitalizzare compagni del 20%.</descrizione>
+    </perk>
+
+      <perk tipo="Perks con durata < 240s">
+        <nome>Forestiero</nome>
+        <descrizione>Riduce il danno provocato dalla tempesta di restrizione del "cerchio" e aumenta la velocità al di fuori della safe-zone. </descrizione>
+      </perk>
+
+        <perk tipo="Perks con durata < 240s">
+          <nome>Furtivo</nome>
+          <descrizione>Rende motlo più veloce il movimento da accovacciato./descrizione>
+        </perk>
+
+          <perk tipo="Perks con durata >= 240s">
+            <nome>Paranoia</nome>
+            <descrizione>Si riceve un segnale sonoro quando qualcuno vi sta mirando.</descrizione>
+          </perk>
+
+            <perk tipo="Perks con durata >= 240s">
+              <nome>Rinforzato</nome>
+              <descrizione>Riduce il danno da esplosioni e aumenta la resistenza alle concussioni.</descrizione>
+            </perk>
+
+              <perk tipo="Perks con durata >= 240s">
+                <nome>Geniere</nome>
+                <descrizione>Permette di rivelare veicoli e equipaggiamenti nemici.</descrizione>
+              </perk>
+
+                <perk tipo="Perks con durata >= 240s">
+                  <nome>Attaccabrighe</nome>
+                  <descrizione>Aumenta il danno inflitto corpo a corpo verso un nemico.</descrizione>
+                </perk>
+
+                  <perk tipo="Perks con durata < 240s">
+                    <nome>Mobilità</nome>
+                    <descrizione>Rende motlo più veloce il movimento e lo scambio con l'arma secondaria.</descrizione>
+                  </perk>
+
+                    <perk tipo="Perks con durata < 240s">
+                      <nome>Silenzio di tomba</nome>
+                      <descrizione>Permette di muoversi silenziosamente.</descrizione>
+                    </perk>
+
+                      <perk tipo="Perks con durata < 240s">
+                        <nome>Percezione</nome>
+                        <descrizione>Rende i passi dei nemici più forti, così da permettere una più facile individuazione.</descrizione>
+                      </perk>
+
+</perks>
