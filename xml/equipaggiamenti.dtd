@@ -1,6 +1,6 @@
-<!ELEMENT equipaggiamenti (equipaggiamento+)>
-<!ELEMENT equipaggiamento (nome?, descrizione?)>
-<!ELEMENT nome (#PCDATA)>
-<!ELEMENT descrizione (#PCDATA)>
+<!ELEMENT equipaggiamenti (equipaggiamento+)> 
+<!ELEMENT equipaggiamento (nome?, descrizione?)> 
+<!ELEMENT nome (#PCDATA)> 
+<!ELEMENT descrizione (#PCDATA)> 
 
 <!ATTLIST equipaggiamento tipo CDATA #REQUIRED>

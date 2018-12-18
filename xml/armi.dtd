@@ -1,6 +1,6 @@
-<!ELEMENT armi (arma+)>
-<!ELEMENT arma (nome?, descrizione?)>
-<!ELEMENT nome (#PCDATA)>
-<!ELEMENT descrizione (#PCDATA)>
+<!ELEMENT armi (arma+)> 
+<!ELEMENT arma (nome?, descrizione?)> 
+<!ELEMENT nome (#PCDATA)> 
+<!ELEMENT descrizione (#PCDATA)> 
 
-<!ATTLIST arma tipo CDATA #REQUIRED>
+<!ATTLIST arma tipo CDATA #REQUIRED> 

@@ -1,4 +1,3 @@
-
 //funzione per caricare documento xml
 function loadXMLDoc() {
   var xhttp = new XMLHttpRequest();

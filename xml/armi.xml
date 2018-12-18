@@ -4,127 +4,102 @@
     <nome>Strife</nome>
     <descrizione> Pistola semi-automatica, spara proiettili 11,43mm. </descrizione>
   </arma>
-
   <arma tipo="Pistole">
     <nome>Mozu</nome>
     <descrizione> Revolver a danno elevato, spara proiettili 11,43mm. </descrizione>
   </arma>
-
   <arma tipo="Fucili d’assalto">
     <nome>ICR-7</nome>
     <descrizione> Fucile automatico con rinculo ridotto, spara proiettili 5,56mm. Grazie alla sua estrema duttilità, è l'arma più utilizzata del gioco. Devastante se equipaggiata completamente. </descrizione>
   </arma>
-
   <arma tipo="Fucili d’assalto">
     <nome>KN-57</nome>
     <descrizione> Fucile automatico con rinculo moderato, spara proiettili 7,62mm. Estremamente equilibrata, si rivela il fucile d'assalto migliore per gli scontri a media-corta distanza. </descrizione>
   </arma>
-
   <arma tipo="Fucili d’assalto">
     <nome>Rampart 17</nome>
-    <descrizione> Fucile automatico a lenta cadenza di fuoco, spara proiettili 7,62mm. Nonostante sia il fucile d'assalto che causa maggior danno, data la lenta cadenza e l'eccessivo rinculo, si rivela uan delle armi meno utilizzate del gioco.  </descrizione>
+    <descrizione> Fucile automatico a lenta cadenza di fuoco, spara proiettili 7,62mm. Nonostante sia il fucile d'assalto che causa maggior danno, data la lenta cadenza e l'eccessivo rinculo, si rivela uan delle armi meno utilizzate del gioco. </descrizione>
   </arma>
-
   <arma tipo="Fucili d’assalto">
     <nome>Vapr-XKG</nome>
     <descrizione> Fucile automatico con maggiore mobilità, spara proiettili 5,56mm. Risulta il fucile ideale per chi predilige uno stile di gioco aggressivo. Ideale per scontri corta.media distanza. </descrizione>
   </arma>
-
   <arma tipo="Fucili d’assalto">
     <nome>Maddox RFB</nome>
     <descrizione> Fucile automatico con alta cadenza di fuoco, spara proiettili 5,56mm. Risulta molto preciso nonostante l'elevata cadenza , buono per scontri di media distanza. </descrizione>
   </arma>
-
   <arma tipo="Fucili d’assalto">
     <nome>Grav</nome>
     <descrizione> Descrizione Grav </descrizione>
   </arma>
-
   <arma tipo="Fucili tattici">
     <nome>Auger DMR</nome>
-    <descrizione> Fucile semi-automatico a danno elevato, spara proiettili 7,62mm. Devastante se equipaggiato completamente, è ottimale in combinazione con un'arma da scontro ravvicinato.  </descrizione>
+    <descrizione> Fucile semi-automatico a danno elevato, spara proiettili 7,62mm. Devastante se equipaggiato completamente, è ottimale in combinazione con un'arma da scontro ravvicinato. </descrizione>
   </arma>
-
   <arma tipo="Fucili tattici">
     <nome>ABR 223</nome>
     <descrizione> Fucile a raffica di 3 proiettili, spara proiettili 5,56mm. Arma ideale per giocatori in possesso di una buona mira. </descrizione>
   </arma>
-
   <arma tipo="Fucili tattici">
     <nome>Swordfish</nome>
     <descrizione> Fucile a raffica di 4 proiettili, spara proiettili 5,56mm. Probabilmente l'arma più odiata del gioco, in quanto la scarsa precisione e lo scarso danno la rendono inutilizzabile in situazioni diverse da quella di inizio partita. </descrizione>
   </arma>
-
   <arma tipo="Fucili tattici">
     <nome>Essex Model 07</nome>
     <descrizione> Descrizione Essex Model 07 </descrizione>
   </arma>
-
   <arma tipo="Fucili di precisione">
     <nome>Paladin HB50</nome>
-    <descrizione> Fucile bolt-action a danno elevato, spara proiettili 12,43mm. Il fucile di precisione più potente del gioco, nelle mani giuste può diventare cruciale verso la vittoria.   </descrizione>
+    <descrizione> Fucile bolt-action a danno elevato, spara proiettili 12,43mm. Il fucile di precisione più potente del gioco, nelle mani giuste può diventare cruciale verso la vittoria. </descrizione>
   </arma>
-
   <arma tipo="Fucili di precisione">
     <nome>Koshka</nome>
     <descrizione> Fucile bolt-action ad alta mobilità, spara proiettili 8,5mm. Con danno minore solo al Paladin HB50, questo fucile viene considerato uno dei migliori all'interno del gico.</descrizione>
   </arma>
-
   <arma tipo="Fucili a pompa">
     <nome>MOG 12</nome>
     <descrizione> Fucile a pompa a danno elevato, spara pallettoni 18,53mm. Arma ideale per l'inizio partita, infatti, il danno elevato permette di uccidere con due colpi. </descrizione>
   </arma>
-
   <arma tipo="Fucili a pompa">
     <nome>SG12</nome>
-    <descrizione> Fucile a pompa semi-automatico, spara pallettoni 18,53mm. Buon'arma per l'inizio partita, l'elevato rinculo la rende leggermente peggiore rispetto al MOG 12.  </descrizione>
+    <descrizione> Fucile a pompa semi-automatico, spara pallettoni 18,53mm. Buon'arma per l'inizio partita, l'elevato rinculo la rende leggermente peggiore rispetto al MOG 12. </descrizione>
   </arma>
-
   <arma tipo="Mitragliette">
     <nome>MX9</nome>
     <descrizione> Mitraglietta a rinculo moderato, spara proiettili 11,43mm. Discreta per gli scontri ravvicinati. </descrizione>
   </arma>
-
   <arma tipo="Mitragliette">
     <nome>GKS</nome>
     <descrizione> Mitraglietta a rinculo ridotto, spara proiettili 9mm. Il rinculo ridotto fa si che il GKS sia una buona arma anche per scontri a media distanza. </descrizione>
   </arma>
-
   <arma tipo="Mitragliette">
     <nome>Spitfire</nome>
     <descrizione> Mitraglietta ad elevata cadenza di fuoco, spara proiettili 11,43mm. La mitraglietta più utilizzata del gioco, risulta devastante negli scontri ravvicinati. Ottimo l'abbinamento con un fucile di precisione.s </descrizione>
   </arma>
-
   <arma tipo="Mitragliette">
     <nome>Cordite</nome>
     <descrizione> Mitraglietta con caricatore ad elevata capienza, spara proiettili 9mm. Arma relativamente buona per scontri di corta-media distanza. </descrizione>
   </arma>
-
   <arma tipo="Mitragliette">
     <nome>Saug 9mm</nome>
     <descrizione> Mitraglietta ad alta mobilità, spara proiettili 9mm. Decisamente una delle migliori armi ad inizio partita, una volta equipaggiata completamente può diventare ottima anche in situazioni di fine partita. </descrizione>
   </arma>
-
   <arma tipo="Mitragliette">
     <nome>MP40</nome>
     <descrizione> Descrizione  MP40 </descrizione>
   </arma>
-
   <arma tipo="Mitragliatrici">
     <nome>Titan</nome>
     <descrizione> Descrizione  Titan </descrizione>
   </arma>
-
   <arma tipo="Mitragliatrici">
     <nome>Zweihänder</nome>
     <descrizione> Descrizione  Zweihänder </descrizione>
   </arma>
-
   <arma tipo="Lanciarazzi e lanciagranate">
     <nome>Hellion Salvo</nome>
     <descrizione> Descrizione Hellion Salvo </descrizione>
   </arma>
-
   <arma tipo="Lanciarazzi e lanciagranate">
     <nome>Lanciagranate War Machine</nome>
     <descrizione> Descrizione Lanciagranate War Machine </descrizione>
