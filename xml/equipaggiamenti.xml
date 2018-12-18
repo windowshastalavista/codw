@@ -3,32 +3,126 @@
 <equipaggiamenti>
   <equipaggiamento tipo="Granate e Armi da lancio">
     <nome>Molotov</nome>
-    <descrizione> Descrizione Molotov </descrizione>
+    <descrizione> Ordigno incendiario. </descrizione>
   </equipaggiamento>
-  
+
   <equipaggiamento tipo="Granate e Armi da lancio">
-    <nome>Granata a Frammentazione</nome>
-    <descrizione> Descrizione Granata a Frammentazione </descrizione>
+    <nome>Granata</nome>
+    <descrizione> Arma da lancio deflagrante. </descrizione>
   </equipaggiamento>
-  
+
+  <equipaggiamento tipo="Granate e Armi da lancio">
+    <nome>Granata a grappolo</nome>
+    <descrizione> Granata che una volta detonata si separa in diverse granate più piccole. </descrizione>
+  </equipaggiamento>
+
   <equipaggiamento tipo="Granate e Armi da lancio">
     <nome>Granata Stordente</nome>
-    <descrizione> Descrizione Granata Stordente </descrizione>
+    <descrizione> Granata che all'impatto causa difficoltà uditive e visive. </descrizione>
   </equipaggiamento>
-  
+
   <equipaggiamento tipo="Granate e Armi da lancio">
-    <nome>Ascia da combattimento</nome>
-    <descrizione> Descrizione Ascia da combattimento </descrizione>
+    <nome>Tomahawk</nome>
+    <descrizione> Ascia da lancio. </descrizione>
   </equipaggiamento>
-  
+
   <equipaggiamento tipo="Granate e Armi da lancio">
     <nome>9-Bang</nome>
-    <descrizione> Descrizione 9-Bang </descrizione>
+    <descrizione> Granata che una volta detonata crea un flash provocando difficoltà visive. </descrizione>
   </equipaggiamento>
-  
+
    <equipaggiamento tipo="Granate e Armi da lancio">
     <nome>Granata fumogena</nome>
-    <descrizione> Descrizione Granata fumogena </descrizione> 
+    <descrizione> Una volta detonata crea una cortina di fumo. </descrizione>
   </equipaggiamento>
+
+  <equipaggiamento tipo="Equipaggiamenti armi">
+   <nome>Impugnatura</nome>
+   <descrizione> Riduce il rinculo. </descrizione>
+ </equipaggiamento>
+
+ <equipaggiamento tipo="Equipaggiamenti armi">
+  <nome>Calcio</nome>
+  <descrizione> Aumenta la mobilità dell'arma. </descrizione>
+</equipaggiamento>
+
+<equipaggiamento tipo="Equipaggiamenti armi">
+ <nome>Calcio</nome>
+ <descrizione> Aumenta la mobilità dell'arma. </descrizione>
+</equipaggiamento>
+
+<equipaggiamento tipo="Equipaggiamenti armi">
+ <nome>Caricatore rapido</nome>
+ <descrizione> Aumenta la velocità di ricarica. </descrizione>
+</equipaggiamento>
+
+<equipaggiamento tipo="Equipaggiamenti armi">
+ <nome>Caricatore esteso</nome>
+ <descrizione> Aumenta la capienza del caricatore. </descrizione>
+</equipaggiamento>
+
+<equipaggiamento tipo="Equipaggiamenti armi">
+ <nome>Canna lunga</nome>
+ <descrizione> Aumenta la gittata del proiettile. </descrizione>
+</equipaggiamento>
+
+<equipaggiamento tipo="Equipaggiamenti armi">
+ <nome>Silenziatore</nome>
+ <descrizione> Riduce il suono emesso durante lo sparo. </descrizione>
+</equipaggiamento>
+
+<equipaggiamento tipo="Equipaggiamenti speciali">
+  <nome>Mina a maglia</nome>
+  <descrizione> Mina che si innesca una volta passati sulla linea del raggio laser. </descrizione>
+</equipaggiamento>
+
+<equipaggiamento tipo="Equipaggiamenti speciali">
+  <nome>Barricata</nome>
+  <descrizione> Barricata portatile che una volta poggiata a terra si apre, creando una copertura dai nemici. </descrizione>
+</equipaggiamento>
+
+<equipaggiamento tipo="Equipaggiamenti speciali">
+  <nome>Filo spinato</nome>
+  <descrizione> Filo di ferro dentato che impedisce ai nemici di oltrepassare senza recarsi danno. </descrizione>
+</equipaggiamento>
+
+<equipaggiamento tipo="Equipaggiamenti speciali">
+  <nome>Rampino</nome>
+  <descrizione> Pistola-rampino permette di aggangianrsi a qualsiasi oggetto, ideale per salire sui tetti in maniera rapidà. </descrizione>
+</equipaggiamento>
+
+<equipaggiamento tipo="Equipaggiamenti speciali">
+  <nome>Dardo sensore</nome>
+  <descrizione> Dardo che attraverso sensori di calore individua i nemici vicini. </descrizione>
+</equipaggiamento>
+
+<equipaggiamento tipo="Armature e kit medici">
+  <nome>Armatura lv.1</nome>
+  <descrizione>Armatura comune, buona per le fasi iniziale della partita. </descrizione>
+</equipaggiamento>
+
+<equipaggiamento tipo="Armature e kit medici">
+  <nome>Armatura lv.2</nome>
+  <descrizione>Armatura rara, buona per tutta la durata della partita. </descrizione>
+</equipaggiamento>
+
+<equipaggiamento tipo="Armature e kit medici">
+  <nome>Armatura lv.3</nome>
+  <descrizione>Armatura ultra-rara, ottima per tutta la durata della partita. </descrizione>
+</equipaggiamento>
+
+<equipaggiamento tipo="Armature e kit medici">
+  <nome>Benda</nome>
+  <descrizione>Breve tempo di applicazione, permette di recuperare 25 punti vita. </descrizione>
+</equipaggiamento>
+
+<equipaggiamento tipo="Armature e kit medici">
+  <nome>Kit medico</nome>
+  <descrizione>Kit con discreto tempo di applicazione, permette di recuperare 50 punti vita.</descrizione>
+</equipaggiamento>
+
+<equipaggiamento tipo="Armature e kit medici">
+  <nome>Kit anti-trauma</nome>
+  <descrizione>Kit con elevato tempo di applicazione, permette di recuperare pienamente la salute. </descrizione>
+</equipaggiamento>
 </equipaggiamenti>
-  
