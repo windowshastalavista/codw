@@ -6,7 +6,7 @@ function loadXMLDoc() {
       myFunction(this);
     }
   };
-  xhttp.open("GET", "../xml/armi.xml", true);
+  xhttp.open("GET", "../xml/perks.xml", true);
   xhttp.send();
 }
 
@@ -22,7 +22,7 @@ function myFunction(xml) {
   var x, i, j, xmlDoc, arr, txt;
   xmlDoc = xml.responseXML;
   arr = [];
-  x = xmlDoc.getElementsByTagName('arma');
+  x = xmlDoc.getElementsByTagName('perk');
 
   for (i = 0; i < x.length; i++) {
     arr.push(x[i].getAttribute("tipo"));

@@ -1,5 +1,5 @@
-<!ELEMENT equipaggiamenti (perk+)>
-<!ELEMENT equipaggiamento (nome?, descrizione?)>
+<!ELEMENT perks (perk+)>
+<!ELEMENT perk (nome?, descrizione?)>
 <!ELEMENT nome (#PCDATA)>
 <!ELEMENT descrizione (#PCDATA)>
 
