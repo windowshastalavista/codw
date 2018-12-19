@@ -1,19 +1,19 @@
 @charset "utf-8";
 /* CSS Document */
-#Armatura_Lv1 {
-  background-image: url("../jpg/armatura lv.1.jpg");
+#Armatura_lv1 {
+  background-image: url("../jpg/armatura lv1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-#Armatura_Lv2 {
-  background-image: url("../jpg/armaturalv.2.jpg");
+#Armatura_lv2 {
+  background-image: url("../jpg/armaturalv2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-#Armatura_Lv3 {
-  background-image: url("../jpg/armaturalv.3.jpg");
+#Armatura_lv3 {
+  background-image: url("../jpg/armaturalv3.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -42,7 +42,7 @@
   background-repeat: no-repeat;
 }
 
-#Granata_stordente {
+#Granata_Stordente {
   background-image: url("../jpg/stordente.jpg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -90,7 +90,7 @@
   background-repeat: no-repeat;
 }
 
-#Mina_a_miglia {
+#Mina_a_maglia {
   background-image: url("../jpg/minaamaglia.jpg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -114,7 +114,7 @@
   background-repeat: no-repeat;
 }
 
-#Dando_sansore {
+#Dardo_sensore {
   background-image: url("../jpg/dardosensore.jpg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -132,8 +132,8 @@
   background-repeat: no-repeat;
 }
 
-#Kit_anti_trauma {
-  background-image: url("../jpg/kitantitrauma.jpg");
+#Kit_anti-trauma{
+  background-image: url("../jpg/kitantitraumi.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
