@@ -18,6 +18,12 @@
   background-repeat: no-repeat;
 }
 
+#Impugnatura {
+  background-image: url("../jpg/impugnatura.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 #Molotov {
   background-image: url("../jpg/molotov.jpg");
   background-size: cover;
