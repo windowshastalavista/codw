@@ -18,7 +18,7 @@
     <descrizione> Fucile automatico con rinculo moderato, spara proiettili 7,62mm. Estremamente equilibrata, si rivela il fucile d'assalto migliore per gli scontri a media-corta distanza. </descrizione>
   </arma>
   <arma tipo="Fucili d’assalto">
-    <nome>Rampart 17</nome>
+    <nome>Rampart_17</nome>
     <descrizione> Fucile automatico a lenta cadenza di fuoco, spara proiettili 7,62mm. Nonostante sia il fucile d'assalto che causa maggior danno, data la lenta cadenza e l'eccessivo rinculo, si rivela uan delle armi meno utilizzate del gioco. </descrizione>
   </arma>
   <arma tipo="Fucili d’assalto">
@@ -26,15 +26,15 @@
     <descrizione> Fucile automatico con maggiore mobilità, spara proiettili 5,56mm. Risulta il fucile ideale per chi predilige uno stile di gioco aggressivo. Ideale per scontri corta.media distanza. </descrizione>
   </arma>
   <arma tipo="Fucili d’assalto">
-    <nome>Maddox RFB</nome>
+    <nome>Maddox_RFB</nome>
     <descrizione> Fucile automatico con alta cadenza di fuoco, spara proiettili 5,56mm. Risulta molto preciso nonostante l'elevata cadenza , buono per scontri di media distanza. </descrizione>
   </arma>
   <arma tipo="Fucili tattici">
-    <nome>Auger DMR</nome>
+    <nome>Auger_DMR</nome>
     <descrizione> Fucile semi-automatico a danno elevato, spara proiettili 7,62mm. Devastante se equipaggiato completamente, è ottimale in combinazione con un'arma da scontro ravvicinato. </descrizione>
   </arma>
   <arma tipo="Fucili tattici">
-    <nome>ABR 223</nome>
+    <nome>ABR_223</nome>
     <descrizione> Fucile a raffica di 3 proiettili, spara proiettili 5,56mm. Arma ideale per giocatori in possesso di una buona mira. </descrizione>
   </arma>
   <arma tipo="Fucili tattici">
@@ -42,7 +42,7 @@
     <descrizione> Fucile a raffica di 4 proiettili, spara proiettili 5,56mm. Probabilmente l'arma più odiata del gioco, in quanto la scarsa precisione e lo scarso danno la rendono inutilizzabile in situazioni diverse da quella di inizio partita. </descrizione>
   </arma>
   <arma tipo="Fucili di precisione">
-    <nome>Paladin HB50</nome>
+    <nome>Paladin_HB50</nome>
     <descrizione> Fucile bolt-action a danno elevato, spara proiettili 12,43mm. Il fucile di precisione più potente del gioco, nelle mani giuste può diventare cruciale verso la vittoria. </descrizione>
   </arma>
   <arma tipo="Fucili di precisione">
@@ -50,7 +50,7 @@
     <descrizione> Fucile bolt-action ad alta mobilità, spara proiettili 8,5mm. Con danno minore solo al Paladin HB50, questo fucile viene considerato uno dei migliori all'interno del gico.</descrizione>
   </arma>
   <arma tipo="Fucili a pompa">
-    <nome>MOG 12</nome>
+    <nome>MOG_12</nome>
     <descrizione> Fucile a pompa a danno elevato, spara pallettoni 18,53mm. Arma ideale per l'inizio partita, infatti, il danno elevato permette di uccidere con due colpi. </descrizione>
   </arma>
   <arma tipo="Fucili a pompa">
@@ -74,7 +74,7 @@
     <descrizione> Mitraglietta con caricatore ad elevata capienza, spara proiettili 9mm. Arma relativamente buona per scontri di corta-media distanza. </descrizione>
   </arma>
   <arma tipo="Mitragliette">
-    <nome>Saug 9mm</nome>
+    <nome>Saug_9mm</nome>
     <descrizione> Mitraglietta ad alta mobilità, spara proiettili 9mm. Decisamente una delle migliori armi ad inizio partita, una volta equipaggiata completamente può diventare ottima anche in situazioni di fine partita. </descrizione>
   </arma>
   <arma tipo="Mitragliatrici">
@@ -82,15 +82,15 @@
     <descrizione>Mitragliatrice leggera, spara proiettili 7,62mm. Nonostante la scarsa mobilità e la lenta ricarica, il Titan è un'arma molto apprezzata per il rinculo ridotto e il caricatore estremamente capiente. </descrizione>
   </arma>
   <arma tipo="Mitragliatrici">
-    <nome>Zweihänder</nome>
+    <nome>Zweihander</nome>
     <descrizione>Mitragliatrice leggera, spara proiettili 7,62mm. Arma ottenibile uccidendo gli zombies sparsi nella mappa. </descrizione>
   </arma>
   <arma tipo="Lanciarazzi e lanciagranate">
-    <nome>Hellion Salvo</nome>
+    <nome>Hellion_Salvo</nome>
     <descrizione>Lanciarazzi comandato, spara un razzo una voltà individuato il veicolo nemico. </descrizione>
   </arma>
   <arma tipo="Lanciarazzi e lanciagranate">
-    <nome>Lanciagranate War Machine</nome>
+    <nome>Lanciagranate_War_Machine</nome>
     <descrizione>Lanciagranate estremamente raro, può rivelarsi devastate nelle partite a squadre. </descrizione>
   </arma>
 </armi>

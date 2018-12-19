@@ -18,7 +18,7 @@ td {
 }
 .dropbtn {
   color: white;
-  padding: 30px 80px;
+  padding: 50px 80px;
   font-size: 16px;
   border: none;
   cursor: pointer;
@@ -36,6 +36,7 @@ td {
   overflow: auto;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
+  background-color: white;
 }
 .show {
   display: block;

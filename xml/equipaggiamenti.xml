@@ -12,12 +12,12 @@
   </equipaggiamento>
 
   <equipaggiamento tipo="Granate e Armi da lancio">
-    <nome>Granata a grappolo</nome>
+    <nome>Granata_a_grappolo</nome>
     <descrizione> Granata che una volta detonata si separa in diverse granate più piccole. </descrizione>
   </equipaggiamento>
 
   <equipaggiamento tipo="Granate e Armi da lancio">
-    <nome>Granata Stordente</nome>
+    <nome>Granata_Stordente</nome>
     <descrizione> Granata che all'impatto causa difficoltà uditive e visive. </descrizione>
   </equipaggiamento>
 
@@ -32,7 +32,7 @@
   </equipaggiamento>
 
    <equipaggiamento tipo="Granate e Armi da lancio">
-    <nome>Granata fumogena</nome>
+    <nome>Granata_fumogena</nome>
     <descrizione> Una volta detonata crea una cortina di fumo. </descrizione>
   </equipaggiamento>
 
@@ -47,22 +47,17 @@
 </equipaggiamento>
 
 <equipaggiamento tipo="Equipaggiamenti armi">
- <nome>Calcio</nome>
- <descrizione> Aumenta la mobilità dell'arma. </descrizione>
-</equipaggiamento>
-
-<equipaggiamento tipo="Equipaggiamenti armi">
- <nome>Caricatore rapido</nome>
+ <nome>Caricatore_rapido</nome>
  <descrizione> Aumenta la velocità di ricarica. </descrizione>
 </equipaggiamento>
 
 <equipaggiamento tipo="Equipaggiamenti armi">
- <nome>Caricatore esteso</nome>
+ <nome>Caricatore_esteso</nome>
  <descrizione> Aumenta la capienza del caricatore. </descrizione>
 </equipaggiamento>
 
 <equipaggiamento tipo="Equipaggiamenti armi">
- <nome>Canna lunga</nome>
+ <nome>Canna_lunga</nome>
  <descrizione> Aumenta la gittata del proiettile. </descrizione>
 </equipaggiamento>
 
@@ -72,7 +67,7 @@
 </equipaggiamento>
 
 <equipaggiamento tipo="Equipaggiamenti speciali">
-  <nome>Mina a maglia</nome>
+  <nome>Mina_a_maglia</nome>
   <descrizione> Mina che si innesca una volta passati sulla linea del raggio laser. </descrizione>
 </equipaggiamento>
 
@@ -82,7 +77,7 @@
 </equipaggiamento>
 
 <equipaggiamento tipo="Equipaggiamenti speciali">
-  <nome>Filo spinato</nome>
+  <nome>Filo_spinato</nome>
   <descrizione> Filo di ferro dentato che impedisce ai nemici di oltrepassare senza recarsi danno. </descrizione>
 </equipaggiamento>
 
@@ -92,22 +87,22 @@
 </equipaggiamento>
 
 <equipaggiamento tipo="Equipaggiamenti speciali">
-  <nome>Dardo sensore</nome>
+  <nome>Dardo_sensore</nome>
   <descrizione> Dardo che attraverso sensori di calore individua i nemici vicini. </descrizione>
 </equipaggiamento>
 
 <equipaggiamento tipo="Armature e kit medici">
-  <nome>Armatura lv.1</nome>
+  <nome>Armatura_lv1</nome>
   <descrizione>Armatura comune, buona per le fasi iniziale della partita. </descrizione>
 </equipaggiamento>
 
 <equipaggiamento tipo="Armature e kit medici">
-  <nome>Armatura lv.2</nome>
+  <nome>Armatura_lv2</nome>
   <descrizione>Armatura rara, buona per tutta la durata della partita. </descrizione>
 </equipaggiamento>
 
 <equipaggiamento tipo="Armature e kit medici">
-  <nome>Armatura lv.3</nome>
+  <nome>Armatura_lv3</nome>
   <descrizione>Armatura ultra-rara, ottima per tutta la durata della partita. </descrizione>
 </equipaggiamento>
 
@@ -117,12 +112,12 @@
 </equipaggiamento>
 
 <equipaggiamento tipo="Armature e kit medici">
-  <nome>Kit medico</nome>
+  <nome>Kit_medico</nome>
   <descrizione>Kit con discreto tempo di applicazione, permette di recuperare 50 punti vita.</descrizione>
 </equipaggiamento>
 
 <equipaggiamento tipo="Armature e kit medici">
-  <nome>Kit anti-trauma</nome>
+  <nome>Kit_anti-trauma</nome>
   <descrizione>Kit con elevato tempo di applicazione, permette di recuperare pienamente la salute. </descrizione>
 </equipaggiamento>
 </equipaggiamenti>
