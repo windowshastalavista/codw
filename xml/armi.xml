@@ -1,4 +1,5 @@
 <!DOCTYPE armi SYSTEM "armi.dtd">
+<?xml-stylesheet type="text/xsl" version="1.0" href="./armi.xsl"?>
 <armi>
   <arma tipo="Pistole">
     <nome>Strife</nome>

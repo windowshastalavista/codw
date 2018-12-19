@@ -1,5 +1,5 @@
 <!DOCTYPE equipaggiamenti SYSTEM "equipaggiamenti.dtd">
-
+<?xml-stylesheet type="text/xsl" version="1.0" href="./equipaggiamenti.xsl"?>
 <equipaggiamenti>
   <equipaggiamento tipo="Granate e Armi da lancio">
     <nome>Molotov</nome>

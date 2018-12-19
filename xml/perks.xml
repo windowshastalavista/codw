@@ -1,5 +1,5 @@
 <!DOCTYPE perks SYSTEM "perks.dtd">
-
+<?xml-stylesheet type="text/xsl" version="1.0" href="./perks.xsl"?>
 <perks>
   <perk tipo="Perks con durata &gt;= 240s">
     <nome>Medico</nome>
