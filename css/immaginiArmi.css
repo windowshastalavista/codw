@@ -57,19 +57,19 @@
 }
 
 #Swordfish {
-  background-image: url("../jpg/.jpg");
+  background-image: url("../jpg/swordfish.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 #Paladin_HB50 {
-  background-image: url("../jpg/.jpg");
+  background-image: url("../jpg/paladin.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-#Koshka {
-  background-image: url("../jpg/.jpg");
+#Outlaw {
+  background-image: url("../jpg/outlaw.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -99,7 +99,7 @@
 }
 
 #Spitfire {
-  background-image: url("../jpg/.jpg");
+  background-image: url("../jpg/spitfire.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -122,20 +122,14 @@
   background-repeat: no-repeat;
 }
 
-#Zweihander {
-  background-image: url("../jpg/.jpg");
+#VKM750 {
+  background-image: url("../jpg/vkm750.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 #Hellion_Salvo {
   background-image: url("../jpg/hellionsalvo.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-#Lanciagranate_War_Machine {
-  background-image: url("../jpg/.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }

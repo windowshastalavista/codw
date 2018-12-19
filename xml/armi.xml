@@ -46,8 +46,8 @@
     <descrizione> Fucile bolt-action a danno elevato, spara proiettili 12,43mm. Il fucile di precisione più potente del gioco, nelle mani giuste può diventare cruciale verso la vittoria. </descrizione>
   </arma>
   <arma tipo="Fucili di precisione">
-    <nome>Koshka</nome>
-    <descrizione> Fucile bolt-action ad alta mobilità, spara proiettili 8,5mm. Con danno minore solo al Paladin HB50, questo fucile viene considerato uno dei migliori all'interno del gico.</descrizione>
+    <nome>Outlaw</nome>
+    <descrizione> Fucile bolt-action ad alta mobilità, spara proiettili 8,5mm. Con danno minore rispetto al Paladin HB50, questo fucile viene considerato uno dei migliori all'interno del gico per la sua duttilità.</descrizione>
   </arma>
   <arma tipo="Fucili a pompa">
     <nome>MOG_12</nome>
@@ -82,15 +82,11 @@
     <descrizione>Mitragliatrice leggera, spara proiettili 7,62mm. Nonostante la scarsa mobilità e la lenta ricarica, il Titan è un'arma molto apprezzata per il rinculo ridotto e il caricatore estremamente capiente. </descrizione>
   </arma>
   <arma tipo="Mitragliatrici">
-    <nome>Zweihander</nome>
-    <descrizione>Mitragliatrice leggera, spara proiettili 7,62mm. Arma ottenibile uccidendo gli zombies sparsi nella mappa. </descrizione>
+    <nome>VKM750</nome>
+    <descrizione>Mitragliatrice leggera, spara proiettili 12,43mm. Nonostante il danno elevato contro verso i nemici, risulta essere un'arma poco efficace per la sua lentezza. </descrizione>
   </arma>
   <arma tipo="Lanciarazzi e lanciagranate">
     <nome>Hellion_Salvo</nome>
     <descrizione>Lanciarazzi comandato, spara un razzo una voltà individuato il veicolo nemico. </descrizione>
-  </arma>
-  <arma tipo="Lanciarazzi e lanciagranate">
-    <nome>Lanciagranate_War_Machine</nome>
-    <descrizione>Lanciagranate estremamente raro, può rivelarsi devastate nelle partite a squadre. </descrizione>
   </arma>
 </armi>
