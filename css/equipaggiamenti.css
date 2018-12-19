@@ -41,3 +41,7 @@ td {
 .show {
   display: block;
 }
+
+.intestazione_tabella {
+  color: orange;
+}

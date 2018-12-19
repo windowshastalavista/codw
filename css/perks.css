@@ -13,7 +13,7 @@ html, body {
 body {
   margin: 0;
   padding: 0;
-  background: url(../jpg/bo4bg.jpg);
+  background: url("../jpg/sfondoperks.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -29,7 +29,7 @@ td {
 }
 .dropbtn {
   color: white;
-  padding: 50px 80px;
+  padding: 50px 90px;
   font-size: 16px;
   border: none;
   cursor: pointer;
@@ -51,4 +51,8 @@ td {
 }
 .show {
   display: block;
+}
+
+.intestazione_tabella {
+  color: orange;
 }

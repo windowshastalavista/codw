@@ -38,7 +38,7 @@ function myFunction(xml) {
   //per ogni tipo di arma
   for (i = 0; i < arr.length; i++) {
     txt += '<tr>';
-    txt += '<td>' + arr[i] + '</td>';
+    txt += '<td class = "intestazione_tabella">' + arr[i] + '</td>';
     //per ogni arma nel documento xml immetto nella riga della tabella quelli che sono del tipo di arma corrente
     for (j = 0; j < x.length; j++) {
       if (x[j].getAttribute('tipo') == arr[i]) {

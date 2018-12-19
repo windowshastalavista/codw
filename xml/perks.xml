@@ -34,11 +34,11 @@
     <descrizione>Aumenta il danno inflitto corpo a corpo verso un nemico.</descrizione>
   </perk>
   <perk tipo="Perks con durata &lt; 240s">
-    <nome>Mobilità</nome>
+    <nome>Mobilita</nome>
     <descrizione>Rende motlo più veloce il movimento e lo scambio con l'arma secondaria.</descrizione>
   </perk>
   <perk tipo="Perks con durata &lt; 240s">
-    <nome>Silenzio di tomba</nome>
+    <nome>Silenzio_di_tomba</nome>
     <descrizione>Permette di muoversi silenziosamente.</descrizione>
   </perk>
   <perk tipo="Perks con durata &lt; 240s">
