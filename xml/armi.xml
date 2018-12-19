@@ -29,10 +29,6 @@
     <nome>Maddox RFB</nome>
     <descrizione> Fucile automatico con alta cadenza di fuoco, spara proiettili 5,56mm. Risulta molto preciso nonostante l'elevata cadenza , buono per scontri di media distanza. </descrizione>
   </arma>
-  <arma tipo="Fucili d’assalto">
-    <nome>Grav</nome>
-    <descrizione> Descrizione Grav </descrizione>
-  </arma>
   <arma tipo="Fucili tattici">
     <nome>Auger DMR</nome>
     <descrizione> Fucile semi-automatico a danno elevato, spara proiettili 7,62mm. Devastante se equipaggiato completamente, è ottimale in combinazione con un'arma da scontro ravvicinato. </descrizione>
@@ -44,10 +40,6 @@
   <arma tipo="Fucili tattici">
     <nome>Swordfish</nome>
     <descrizione> Fucile a raffica di 4 proiettili, spara proiettili 5,56mm. Probabilmente l'arma più odiata del gioco, in quanto la scarsa precisione e lo scarso danno la rendono inutilizzabile in situazioni diverse da quella di inizio partita. </descrizione>
-  </arma>
-  <arma tipo="Fucili tattici">
-    <nome>Essex Model 07</nome>
-    <descrizione> Descrizione Essex Model 07 </descrizione>
   </arma>
   <arma tipo="Fucili di precisione">
     <nome>Paladin HB50</nome>
@@ -85,24 +77,20 @@
     <nome>Saug 9mm</nome>
     <descrizione> Mitraglietta ad alta mobilità, spara proiettili 9mm. Decisamente una delle migliori armi ad inizio partita, una volta equipaggiata completamente può diventare ottima anche in situazioni di fine partita. </descrizione>
   </arma>
-  <arma tipo="Mitragliette">
-    <nome>MP40</nome>
-    <descrizione> Descrizione  MP40 </descrizione>
-  </arma>
   <arma tipo="Mitragliatrici">
     <nome>Titan</nome>
-    <descrizione> Descrizione  Titan </descrizione>
+    <descrizione>Mitragliatrice leggera, spara proiettili 7,62mm. Nonostante la scarsa mobilità e la lenta ricarica, il Titan è un'arma molto apprezzata per il rinculo ridotto e il caricatore estremamente capiente. </descrizione>
   </arma>
   <arma tipo="Mitragliatrici">
     <nome>Zweihänder</nome>
-    <descrizione> Descrizione  Zweihänder </descrizione>
+    <descrizione>Mitragliatrice leggera, spara proiettili 7,62mm. Arma ottenibile uccidendo gli zombies sparsi nella mappa. </descrizione>
   </arma>
   <arma tipo="Lanciarazzi e lanciagranate">
     <nome>Hellion Salvo</nome>
-    <descrizione> Descrizione Hellion Salvo </descrizione>
+    <descrizione>Lanciarazzi comandato, spara un razzo una voltà individuato il veicolo nemico. </descrizione>
   </arma>
   <arma tipo="Lanciarazzi e lanciagranate">
     <nome>Lanciagranate War Machine</nome>
-    <descrizione> Descrizione Lanciagranate War Machine </descrizione>
+    <descrizione>Lanciagranate estremamente raro, può rivelarsi devastate nelle partite a squadre. </descrizione>
   </arma>
 </armi>
