@@ -6,15 +6,19 @@ tr {
 th, td {
   display: block;
 }
-html, body {
-    margin: 0;
-    padding: 0;
-    background: url(../jpg/sfondoperks.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-  
+html, body {  
   width: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: url(../jpg/bo4bg.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: sans-serif;
+  
 }
 table {
   margin: 0 auto;
