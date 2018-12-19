@@ -26,11 +26,6 @@
     <descrizione> Ascia da lancio. </descrizione>
   </equipaggiamento>
 
-  <equipaggiamento tipo="Granate e Armi da lancio">
-    <nome>9-Bang</nome>
-    <descrizione> Granata che una volta detonata crea un flash provocando difficoltà visive. </descrizione>
-  </equipaggiamento>
-
    <equipaggiamento tipo="Granate e Armi da lancio">
     <nome>Granata_fumogena</nome>
     <descrizione> Una volta detonata crea una cortina di fumo. </descrizione>

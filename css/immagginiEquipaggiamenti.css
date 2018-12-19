@@ -1,139 +1,133 @@
 @charset "utf-8";
 /* CSS Document */
-#ArmaturaLv1 {
+#Armatura_Lv1 {
   background-image: url("../jpg/armatura lv.1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-#ArmaturaLv1 {
-  background-image: url("../jpg/armatura lv.1.jpg");
+#Armatura_Lv2 {
+  background-image: url("../jpg/armaturalv.2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-#ArmaturaLv1 {
-  background-image: url("../jpg/armatura lv.1.jpg");
+#Armatura_Lv3 {
+  background-image: url("../jpg/armaturalv.3.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-#ArmaturaLv1 {
-  background-image: url("../jpg/armatura lv.1.jpg");
+#Molotov {
+  background-image: url("../jpg/molotov.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-#ArmaturaLv1 {
-  background-image: url("../jpg/armatura lv.1.jpg");
+#Granata {
+  background-image: url("../jpg/granata.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-#ArmaturaLv1 {
-  background-image: url("../jpg/armatura lv.1.jpg");
+#Granata_a_grappolo {
+  background-image: url("../jpg/granataagrappolo.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-#ArmaturaLv1 {
-  background-image: url("../jpg/armatura lv.1.jpg");
+#Granata_stordente {
+  background-image: url("../jpg/stordente.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-#ArmaturaLv1 {
-  background-image: url("../jpg/armatura lv.1.jpg");
+#Tomahawk {
+  background-image: url("../jpg/tomahawk.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-#ArmaturaLv1 {
-  background-image: url("../jpg/armatura lv.1.jpg");
+#Granata_fumogena {
+  background-image: url("../jpg/fumogena.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-#ArmaturaLv1 {
-  background-image: url("../jpg/armatura lv.1.jpg");
+#Calcio {
+  background-image: url("../jpg/calcio.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-#ArmaturaLv1 {
-  background-image: url("../jpg/armatura lv.1.jpg");
+#Caricatore_esteso {
+  background-image: url("../jpg/caricatoreaumentato.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-#ArmaturaLv1 {
-  background-image: url("../jpg/armatura lv.1.jpg");
+#Caricatore_rapido {
+  background-image: url("../jpg/caricatorerapido.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-#ArmaturaLv1 {
-  background-image: url("../jpg/armatura lv.1.jpg");
+#Canna_lunga {
+  background-image: url("../jpg/cannalunga.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-#ArmaturaLv1 {
-  background-image: url("../jpg/armatura lv.1.jpg");
+#Silenziatore {
+  background-image: url("../jpg/silenziatore.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-#ArmaturaLv1 {
-  background-image: url("../jpg/armatura lv.1.jpg");
+#Mina_a_miglia {
+  background-image: url("../jpg/minaamaglia.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-#ArmaturaLv1 {
-  background-image: url("../jpg/armatura lv.1.jpg");
+#Barricata {
+  background-image: url("../jpg/barricata.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-#ArmaturaLv1 {
-  background-image: url("../jpg/armatura lv.1.jpg");
+#Filo_spinato {
+  background-image: url("../jpg/filospinato.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-#ArmaturaLv1 {
-  background-image: url("../jpg/armatura lv.1.jpg");
+#Rampino {
+  background-image: url("../jpg/rampino.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-#ArmaturaLv1 {
-  background-image: url("../jpg/armatura lv.1.jpg");
+#Dando_sansore {
+  background-image: url("../jpg/dardosensore.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-#ArmaturaLv1 {
-  background-image: url("../jpg/armatura lv.1.jpg");
+#Benda {
+  background-image: url("../jpg/benda.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-#ArmaturaLv1 {
-  background-image: url("../jpg/armatura lv.1.jpg");
+#Kit_medico {
+  background-image: url("../jpg/kitmedico.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-#ArmaturaLv1 {
-  background-image: url("../jpg/armatura lv.1.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-#ArmaturaLv1 {
-  background-image: url("../jpg/armatura lv.1.jpg");
+#Kit_anti_trauma {
+  background-image: url("../jpg/kitantitrauma.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
