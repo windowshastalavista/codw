@@ -13,9 +13,14 @@ body{
 /* css del del tag h1 */
 h1 {
   text-align: center;
-  color: orange;
+  color: red;
 }
 /* CSS tag table */
 table {
   margin: 0 auto;
 }
+
+a {
+  color:red;
+}
+
